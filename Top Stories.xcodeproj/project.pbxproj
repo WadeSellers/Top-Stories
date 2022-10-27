@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		080D3225290A3469001CA96E /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 080D3224290A3469001CA96E /* SwiftyJSON.swift */; };
 		0869F285290A3249001766E2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0869F284290A3249001766E2 /* AppDelegate.swift */; };
 		0869F287290A3249001766E2 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0869F286290A3249001766E2 /* SceneDelegate.swift */; };
 		0869F289290A3249001766E2 /* SourcesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0869F288290A3249001766E2 /* SourcesViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		080D3224290A3469001CA96E /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
 		0869F281290A3249001766E2 /* Top Stories.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Top Stories.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0869F284290A3249001766E2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0869F286290A3249001766E2 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				0869F28D290A324A001766E2 /* Assets.xcassets */,
 				0869F28F290A324A001766E2 /* LaunchScreen.storyboard */,
 				0869F292290A324A001766E2 /* Info.plist */,
+				080D3224290A3469001CA96E /* SwiftyJSON.swift */,
 			);
 			path = "Top Stories";
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				0869F289290A3249001766E2 /* SourcesViewController.swift in Sources */,
 				0869F285290A3249001766E2 /* AppDelegate.swift in Sources */,
 				0869F287290A3249001766E2 /* SceneDelegate.swift in Sources */,
+				080D3225290A3469001CA96E /* SwiftyJSON.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
